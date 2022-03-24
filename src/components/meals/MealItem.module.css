@@ -1,6 +1,5 @@
 .meal {
   display: flex;
-  flex-direction: column; /*added to keep columns*/
   justify-content: space-between;
   margin: 1rem;
   padding-bottom: 1rem;
